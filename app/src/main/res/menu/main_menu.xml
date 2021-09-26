@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/registrationMenu"
+        android:title="Add new registration" />
+    <item
+        android:id="@+id/updateUserRegistration"
+        android:title="Update user registration" />
+    <item
+        android:id="@+id/deleteUserMenu"
+        android:title="Delete user by ID" />
+</menu>
